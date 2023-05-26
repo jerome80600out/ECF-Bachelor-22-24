@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T19:53:03.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ewzebpBZcGttwqxDj_Mf" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T19:56:38.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="mDQ3WfwEKbJ1mHd2dYqp" version="21.3.4" type="github">
   <diagram name="Page-1" id="Gw6h3Obzz_ftjXIXXvwf">
     <mxGraphModel dx="1290" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -272,6 +272,12 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-60" y="-79" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GG5rKBl0zWL7bbtaTnsB-82" value="Odd_team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GG5rKBl0zWL7bbtaTnsB-84" value="Score" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="90" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
